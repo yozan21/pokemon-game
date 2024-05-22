@@ -8,7 +8,7 @@ Welcome to this beautiful pokemon game created using canvas scripts and simple l
 - Press 'S' key to move Backwards
 - Press 'A' key to move Left
 - Press 'D' key to move Right
-- When wild pokemon appears fight by click the attack options that appears on the lower part of the screen
+- When wild pokemon appears fight! by clicking the attack options that appears on the lower part of the screen
 - Each attack has different effects and damage points.
 
 ### Visit the site form the link below
